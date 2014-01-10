@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Radial Demo</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="action_items">
+        <item>Draw circle</item>
+        <item>Draw arc</item>
+    </string-array>
+</resources>
